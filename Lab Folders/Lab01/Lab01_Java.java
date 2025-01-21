@@ -8,7 +8,7 @@ void testMethod1()
 
   //Last line print('Good bye')
 }
-
+ // Edit made by Blessing Ohiolei-Joshua_230213263.
 void testMethod2()
   {
   // First command x = //to be filled in by student
